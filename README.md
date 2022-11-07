@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Oleg Shikhtorin
 - 👀 I’m interested in science, EDA, programming, math
-- 🌱 I’m currently learning to use git!
 - 📫 How to reach me oleg.shihtorin@gmail.com
 
 <!---

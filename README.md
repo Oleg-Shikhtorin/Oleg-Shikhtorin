@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Oleg Shikhtorin
-- 👀 I’m interested in science, EDA, programming, math
+- 👋 Hi, I’m Oleg
+- 👀 I’m interested in data analysis, data science & automation
 - 📫 How to reach me oleg.shihtorin@gmail.com
 
 <!---
